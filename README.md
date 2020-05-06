@@ -37,6 +37,7 @@ Literature survey of scene graphs
 
 |  Title  |   Venue  |  Code   |
 |:--------|:--------:|:--------:|
+| A Survey of Scene Graph:Generation and Application| - | - |
 | [Adversarial Adaptation of Scene Graph Models for Understanding Civic Issues](https://arxiv.org/pdf/1901.10124.pdf) | WWW | - |
 | [Contextual Translation Embedding for Visual Relationship Detection and Scene Graph Generation](https://arxiv.org/pdf/1905.11624.pdf) | NLP | - |
 | [PasteGAN: A Semi-Parametric Method to Generate Image from Scene Graph](https://arxiv.org/pdf/1905.01608.pdf) | NIPS | - |
