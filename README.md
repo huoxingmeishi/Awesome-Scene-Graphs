@@ -1,4 +1,4 @@
-# Awesome Scene Graphs
+# Awesome Scene Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Literature survey of scene graphs
 
