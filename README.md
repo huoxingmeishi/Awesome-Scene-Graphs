@@ -24,7 +24,9 @@ Literature survey of scene graphs
 
 @Booklet{EasyChair:3385,
   author = {Pengfei Xu and Xiaojun Chang and Ling Guo and Po-Yao Huang and Xiaojiang Chen and Alex Hauptmann},
+  
   title = {A Survey of Scene Graph: Generation and Application},
+  
   howpublished = {EasyChair Preprint no. 3385},
 
   year = {EasyChair, 2020}}
